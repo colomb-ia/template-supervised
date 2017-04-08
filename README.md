@@ -5,15 +5,22 @@
 *Descripcion del reto, contexto y motivacion.*
 
 ### Formato Datos
-*Especifica los archivos que contienen los datos y el formato de estso (csv, txt, etc)*
+*Especifica los archivos que contienen los datos y el formato de estso (csv, txt, etc). IMPORTANTE: Los datos siempre deben estar contenidos en la carpeta `data`, adicionalmente dentro de esta carpeta deben divirse entre las carpetas `training-set` y `test-set`.*
+
+```
+| data
+| -- traning-set
+| -- test-set
+```
 
 ### Variables
 *Describe cada una de las variables de los datos*
 
 ### Objetivo
-*Especifica el objetivo del reto y el rol de las variables (e.g cuales son los features y cuales son los labels)*
+*Especifica el objetivo del reto y el rol de las variables (e.g cuales son los features y cuales son los labels). IMPORTANTE: se debe especificar que el performance debe ser calculado con respecto a los datos del `test-set` y este no puede ser utilizado para el entrenamiento.*
 
 ### Solucion
+Ver procedimiento de [solucion](https://github.com/colomb-ia/formato-retos#solucion)
 
 ### Notas Teoricas
 *Sugiere algunos aspectos teoricos a tener en cuenta.*
