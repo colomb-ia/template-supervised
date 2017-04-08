@@ -1,4 +1,6 @@
 # Reto {reto}
+*Nomenclatura del nombre del reto:  categoria-nivel-dataset*
+
 ## Descripcion
 *Descripcion del reto, contexto y motivacion.*
 
