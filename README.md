@@ -22,6 +22,18 @@
 ### Solucion
 Ver procedimiento de [solucion](https://github.com/colomb-ia/formato-retos#solucion)
 
+##### Requerimientos
+*Indica los requerimientos para utilizar el codigo de tu solucion*
+
+##### Procedimiento
+*Indica el procedimiento que se debe seguir para reproducir tu solucion*
+
+##### Metodo
+*Indica el metodo que utilizaste para solucionar el reto*
+
+##### Resultados
+*Indica el metodo que utilizaste para solucionar el reto*
+
 ### Notas Teoricas
 *Sugiere algunos aspectos teoricos a tener en cuenta.*
 
