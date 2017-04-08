@@ -13,6 +13,8 @@
 ### Objetivo
 *Especifica el objetivo del reto y el rol de las variables (e.g cuales son los features y cuales son los labels)*
 
+### Solucion
+
 ### Notas Teoricas
 *Sugiere algunos aspectos teoricos a tener en cuenta.*
 
@@ -35,6 +37,12 @@ cd {reto}
 
 # Starter Code {lenguaje}
 *Instrucciones para correr un archivo que ayuda a visualizar y entender la estructura de datos. Es obligatorio tener por lo menos 1 lenguaje soportado.*
+
+
+# Soluciones
+| Score | Usuario |	Algoritmo | Link Repo |
+| - | - | - | - |
+| *score* | *nombre* | *algoritmo* | *link* |
 
 
 [fork]: https://help.github.com/articles/fork-a-repo/
